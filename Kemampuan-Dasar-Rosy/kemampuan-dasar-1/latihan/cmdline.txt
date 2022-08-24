@@ -1,0 +1,2220 @@
+C:\Users\Aspire> dir D:\
+ Volume in drive D is Data
+ Volume Serial Number is CC07-AE21
+
+ Directory of D:\
+
+11/04/2022  11:48            41.490 1649652322543.jpg
+27/06/2021  20:30             8.370 333.jpg
+01/07/2022  20:10               507 Acer (C) - Shortcut (2).lnk
+29/06/2022  21:24               507 Acer (C) - Shortcut.lnk
+28/06/2022  04:49         3.557.309 algoritma decrease dan conquer.pptx
+11/04/2022  08:28           414.301 business-development-process-infographics.pptx
+28/06/2021  16:19    <DIR>          C++Builder6
+15/04/2022  08:05    <DIR>          DATA SEMESTER 3
+28/06/2022  04:37    <DIR>          data semester 4
+23/03/2022  15:47    <DIR>          drakor
+11/04/2022  08:22         2.861.632 Ephesus · SlidesCarnival.pptx
+11/04/2022  09:57        11.365.090 german-literature-thesis.pptx
+28/05/2021  10:00           403.834 hb1.cdr
+18/08/2022  10:01           802.816 KOPERASIKU.accdb
+12/04/2021  23:17           602.112 KOPERASIKU1.accdb
+01/12/2021  19:20            10.755 metnun.xlsx
+11/04/2022  09:53         3.898.617 Ophelia · SlidesCarnival.pptx
+01/04/2021  19:20    <DIR>          Pictures
+11/04/2022  14:00         1.391.966 presentasi kel. 3.pptx
+11/04/2022  09:54         2.048.232 Puck · SlidesCarnival.pptx
+18/08/2022  22:16    <DIR>          QS
+11/04/2022  08:21         2.956.454 Quickly · SlidesCarnival.pptx
+11/04/2022  08:20         3.400.640 Rita · SlidesMania.pptx
+11/04/2022  08:21         2.773.969 Roderigo · SlidesCarnival.pptx
+31/12/2021  20:05         1.004.613 tpq.png
+24/07/2022  21:34         3.238.014 TUGAS INTERAKSI BELAJAR MENGAJAR_BI721002_Nikmatul Muflikhah.pptx
+11/04/2022  09:53         3.257.110 Valentine · SlidesCarnival.pptx
+05/02/2022  20:21    <DIR>          w11
+11/04/2022  08:28        41.543.040 world-poetry-day.pptx
+11/04/2022  12:24    <DIR>          [gigapurbalingga.net]_Bndcm5021813
+12/04/2021  08:28        22.586.976 [gigapurbalingga.net]_Bndcm5021813.rar
+12/04/2021  08:30           337.370 [gigapurbalingga.net]_cRBndcm5021813.rar
+              24 File(s)    108.505.724 bytes
+               8 Dir(s)  90.774.511.616 bytes free
+
+
+C:\Users\Aspire> ping
+Pinging google.com [172.217.194.100] with 32 bytes of data:
+Reply from 172.217.194.100: bytes=32 time=261ms TTL=56
+Reply from 172.217.194.100: bytes=32 time=31ms TTL=56
+Reply from 172.217.194.100: bytes=32 time=117ms TTL=56
+Reply from 172.217.194.100: bytes=32 time=204ms TTL=56
+
+Ping statistics for 172.217.194.100:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 261ms, Average = 153ms
+
+
+Microsoft DiskPart version 10.0.19041.964
+
+Copyright (C) Microsoft Corporation.
+On computer: LAPTOP-MVR10526
+
+DISKPART>
+
+
+C:\Users\Aspire> whoami
+laptop-mvr10526\aspire
+
+
+C:\Users\Aspire> ipconfig
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Ethernet adapter VirtualBox Host-Only Network:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::cc78:5531:e15d:6cab%17
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . :
+
+Wireless LAN adapter Local Area Connection* 9:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 10:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::8d96:27b7:d51f:ef32%12
+   IPv4 Address. . . . . . . . . . . : 172.16.3.141
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 172.16.3.254
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+
+C:\Users\Aspire> hostname
+LAPTOP-MVR10526
+
+
+C:\Users\Aspire> getmac
+
+Physical Address    Transport Name
+=================== ==========================================================
+B4-A9-FC-E6-57-1F   Media disconnected
+94-08-53-73-03-7C   Media disconnected
+94-08-53-73-03-7B   \Device\Tcpip_{AAE1A972-F6D1-4023-B005-D22E114EF9DC}
+0A-00-27-00-00-11   \Device\Tcpip_{CAE95F89-151D-4F55-BA47-D00B38B59FE9}
+
+
+
+C:\Users\Aspire> taskmgr
+ (untuk memanggil task manager lewat CMD)
+
+
+
+C:\Users\Aspire> chdir
+C:\Users\Aspire
+(folder yang sedang ktif)
+
+
+
+C:\Users\Aspire> systeminfo
+
+Host Name:                 LAPTOP-MVR10526
+OS Name:                   Microsoft Windows 10 Home Single Language
+OS Version:                10.0.19041 N/A Build 19041
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Aspire
+Registered Organization:   N/A
+Product ID:                00327-36244-47620-AAOEM
+Original Install Date:     02/02/2021, 10:45:22
+System Boot Time:          19/08/2022, 08:05:04
+System Manufacturer:       Acer
+System Model:              Aspire A314-22
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: AMD64 Family 23 Model 24 Stepping 1 AuthenticAMD ~2600 Mhz
+BIOS Version:              Insyde Corp. V1.10, 26/09/2020
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC+07:00) Bangkok, Hanoi, Jakarta
+Total Physical Memory:     3.521 MB
+Available Physical Memory: 1.432 MB
+Virtual Memory: Max Size:  4.161 MB
+Virtual Memory: Available: 1.096 MB
+Virtual Memory: In Use:    3.065 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\LAPTOP-MVR10526
+Hotfix(s):                 12 Hotfix(s) Installed.
+                           [01]: KB5006365
+                           [02]: KB4534170
+                           [03]: KB4537759
+                           [04]: KB4542335
+                           [05]: KB4545706
+                           [06]: KB4577266
+                           [07]: KB4577586
+                           [08]: KB4580325
+                           [09]: KB4598481
+                           [10]: KB5007186
+                           [11]: KB5006753
+                           [12]: KB5005699
+Network Card(s):           4 NIC(s) Installed.
+                           [01]: Realtek PCIe GbE Family Controller
+                                 Connection Name: Ethernet
+                                 Status:          Media disconnected
+                           [02]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection
+                                 Status:          Media disconnected
+                           [03]: Qualcomm Atheros QCA9377 Wireless Network Adapter
+                                 Connection Name: Wi-Fi
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     172.16.3.254
+                                 IP address(es)
+                                 [01]: 172.16.3.141
+                                 [02]: fe80::8d96:27b7:d51f:ef32
+                           [04]: VirtualBox Host-Only Ethernet Adapter
+                                 Connection Name: VirtualBox Host-Only Network
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.56.1
+                                 [02]: fe80::cc78:5531:e15d:6cab
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes
+
+
+
+C:\Users\Aspire> tree
+Folder PATH listing for volume Acer
+Volume serial number is ACAC-284E
+C:.
+├───.idlerc
+├───.VirtualBox
+├───3D Objects
+├───Contacts
+├───Desktop
+├───Documents
+│   ├───Access.en-us
+│   │   └───Access.en-us
+│   ├───Admin
+│   │   ├───de-de
+│   │   ├───en-us
+│   │   ├───es-es
+│   │   ├───fr-fr
+│   │   ├───it-it
+│   │   ├───ja-jp
+│   │   ├───ko-kr
+│   │   ├───pt-br
+│   │   ├───ru-ru
+│   │   ├───zh-cn
+│   │   └───zh-tw
+│   ├───Avatar
+│   │   ├───AvatarModel
+│   │   └───ImportComponentLibrary
+│   ├───Bandicam
+│   ├───Borland CPP Builder 6
+│   │   └───INSTALL
+│   │       ├───Common
+│   │       │   └───Borland Shared
+│   │       │       ├───BDE
+│   │       │       └───DBExpress
+│   │       ├───program files
+│   │       │   └───Borland
+│   │       │       └───CBuilder6
+│   │       │           ├───Bin
+│   │       │           │   ├───Netscap3
+│   │       │           │   ├───Netscp35
+│   │       │           │   ├───Netscp36
+│   │       │           │   └───Netscp41
+│   │       │           ├───Doc
+│   │       │           ├───Examples
+│   │       │           │   ├───Ado
+│   │       │           │   │   ├───Briefcase
+│   │       │           │   │   └───Shape
+│   │       │           │   ├───AppEvents
+│   │       │           │   ├───Apps
+│   │       │           │   │   ├───Autocon
+│   │       │           │   │   ├───Autosrv
+│   │       │           │   │   ├───Canvas
+│   │       │           │   │   ├───Colordlg
+│   │       │           │   │   ├───Cursors
+│   │       │           │   │   ├───Doodle
+│   │       │           │   │   ├───FindRep
+│   │       │           │   │   ├───Header
+│   │       │           │   │   ├───ImageView
+│   │       │           │   │   ├───IpcDemos
+│   │       │           │   │   ├───MiniComp
+│   │       │           │   │   ├───MultiPag
+│   │       │           │   │   ├───OwnerList
+│   │       │           │   │   ├───Printing
+│   │       │           │   │   ├───ProcView
+│   │       │           │   │   ├───RichEdit
+│   │       │           │   │   │   ├───Deu
+│   │       │           │   │   │   ├───Enu
+│   │       │           │   │   │   └───Fra
+│   │       │           │   │   ├───Scrollbar
+│   │       │           │   │   ├───Switch
+│   │       │           │   │   ├───SysSound
+│   │       │           │   │   ├───Tab
+│   │       │           │   │   ├───Threads
+│   │       │           │   │   ├───TrayIcon
+│   │       │           │   │   ├───TwoForms
+│   │       │           │   │   └───Wpm
+│   │       │           │   ├───CodeGuard
+│   │       │           │   ├───Controls
+│   │       │           │   │   ├───SingleInst
+│   │       │           │   │   ├───Source
+│   │       │           │   │   ├───Traydemo
+│   │       │           │   │   └───VersionInfo
+│   │       │           │   ├───ConvertIt
+│   │       │           │   ├───Corba
+│   │       │           │   │   ├───atm
+│   │       │           │   │   └───corbamidas
+│   │       │           │   ├───CustomDraw
+│   │       │           │   ├───DBTasks
+│   │       │           │   │   ├───BkQuery
+│   │       │           │   │   ├───CachedUp
+│   │       │           │   │   ├───Contacts
+│   │       │           │   │   ├───CSDemos
+│   │       │           │   │   ├───CtrlGrid
+│   │       │           │   │   ├───DBErrors
+│   │       │           │   │   ├───Filter
+│   │       │           │   │   ├───Find
+│   │       │           │   │   ├───FishFact
+│   │       │           │   │   ├───Gds
+│   │       │           │   │   ├───GDSDemo
+│   │       │           │   │   ├───IBDemo
+│   │       │           │   │   ├───LookUp
+│   │       │           │   │   ├───MastApp
+│   │       │           │   │   ├───MtsPool
+│   │       │           │   │   ├───NavMDI
+│   │       │           │   │   ├───NavSDI
+│   │       │           │   │   ├───NDXBuild
+│   │       │           │   │   ├───Objrepos
+│   │       │           │   │   ├───QBFDemo
+│   │       │           │   │   ├───QJoin
+│   │       │           │   │   ├───QuickRpt
+│   │       │           │   │   └───TextData
+│   │       │           │   ├───DDraw
+│   │       │           │   │   ├───DDraw1a
+│   │       │           │   │   ├───DDraw1b
+│   │       │           │   │   ├───DDraw1c
+│   │       │           │   │   ├───DDraw2
+│   │       │           │   │   ├───DDraw3
+│   │       │           │   │   ├───DDrawcp
+│   │       │           │   │   └───utils
+│   │       │           │   ├───Doc
+│   │       │           │   │   ├───AutoProj
+│   │       │           │   │   ├───CBrowse
+│   │       │           │   │   ├───DirOutln
+│   │       │           │   │   ├───Filmanex
+│   │       │           │   │   ├───GraphEx
+│   │       │           │   │   ├───OleCtnrs
+│   │       │           │   │   ├───OLEWord1
+│   │       │           │   │   ├───OLEWord2
+│   │       │           │   │   ├───TextEdit
+│   │       │           │   │   ├───VarArray
+│   │       │           │   │   ├───VarLock
+│   │       │           │   │   └───VarToInt
+│   │       │           │   ├───Docking
+│   │       │           │   ├───Experts
+│   │       │           │   ├───FastNet
+│   │       │           │   │   ├───DayTime
+│   │       │           │   │   ├───Echo
+│   │       │           │   │   ├───Finger
+│   │       │           │   │   ├───FTP
+│   │       │           │   │   ├───HTTP
+│   │       │           │   │   ├───MsgDemo
+│   │       │           │   │   ├───NNTP
+│   │       │           │   │   ├───POP3
+│   │       │           │   │   ├───SMTP
+│   │       │           │   │   ├───Stream
+│   │       │           │   │   ├───Time
+│   │       │           │   │   └───URL
+│   │       │           │   ├───Games
+│   │       │           │   │   ├───EarthPng
+│   │       │           │   │   ├───Football
+│   │       │           │   │   └───Swat
+│   │       │           │   ├───Icons
+│   │       │           │   ├───Indy
+│   │       │           │   │   ├───BasicClientServer
+│   │       │           │   │   ├───EchoClient
+│   │       │           │   │   ├───EchoServer
+│   │       │           │   │   ├───FingerClient
+│   │       │           │   │   ├───ParseURI
+│   │       │           │   │   ├───PingGUI
+│   │       │           │   │   ├───Proxy
+│   │       │           │   │   ├───QotDClient
+│   │       │           │   │   ├───SimpleServer
+│   │       │           │   │   ├───SSLTunnel
+│   │       │           │   │   ├───TelnetClient
+│   │       │           │   │   ├───TimeClient
+│   │       │           │   │   ├───TimeServer
+│   │       │           │   │   ├───TrivialFTPClient
+│   │       │           │   │   ├───Tunnel
+│   │       │           │   │   ├───WhoisGUI
+│   │       │           │   │   └───ZipCodeLookup
+│   │       │           │   ├───Internet
+│   │       │           │   │   ├───ApacheDSO
+│   │       │           │   │   │   └───Hello
+│   │       │           │   │   └───Chat
+│   │       │           │   ├───MFC
+│   │       │           │   │   ├───Advanced
+│   │       │           │   │   │   ├───ChatSrvr
+│   │       │           │   │   │   │   └───Res
+│   │       │           │   │   │   ├───Chatter
+│   │       │           │   │   │   │   └───Res
+│   │       │           │   │   │   ├───ChkBook
+│   │       │           │   │   │   │   └───Res
+│   │       │           │   │   │   ├───Collect
+│   │       │           │   │   │   │   ├───L.Jpn
+│   │       │           │   │   │   │   │   └───Res
+│   │       │           │   │   │   │   └───Res
+│   │       │           │   │   │   ├───Cube
+│   │       │           │   │   │   │   └───Res
+│   │       │           │   │   │   ├───Fire
+│   │       │           │   │   │   │   └───Res
+│   │       │           │   │   │   ├───Mtgdi
+│   │       │           │   │   │   │   └───Res
+│   │       │           │   │   │   ├───Mtmdi
+│   │       │           │   │   │   │   └───Jpn
+│   │       │           │   │   │   ├───MTRecalc
+│   │       │           │   │   │   │   └───Res
+│   │       │           │   │   │   ├───Mutexes
+│   │       │           │   │   │   │   └───Res
+│   │       │           │   │   │   ├───OldBars
+│   │       │           │   │   │   │   └───Res
+│   │       │           │   │   │   └───Speakn
+│   │       │           │   │   │       ├───Jpn
+│   │       │           │   │   │       └───Res
+│   │       │           │   │   ├───Controls
+│   │       │           │   │   │   ├───Button
+│   │       │           │   │   │   └───Circ1
+│   │       │           │   │   ├───General
+│   │       │           │   │   │   └───Cmnctrls
+│   │       │           │   │   │       └───Res
+│   │       │           │   │   ├───Ole
+│   │       │           │   │   │   ├───Superpad
+│   │       │           │   │   │   │   ├───Jpn
+│   │       │           │   │   │   │   └───Res
+│   │       │           │   │   │   └───Wordpad
+│   │       │           │   │   │       └───Res
+│   │       │           │   │   └───Utility
+│   │       │           │   │       ├───Batch
+│   │       │           │   │       └───Guidegen
+│   │       │           │   │           └───Res
+│   │       │           │   ├───Midas
+│   │       │           │   │   ├───ActiveFm
+│   │       │           │   │   ├───Adhoc
+│   │       │           │   │   ├───Briefcase
+│   │       │           │   │   ├───EmpEdit
+│   │       │           │   │   ├───InternetExpress
+│   │       │           │   │   │   ├───CustomerList
+│   │       │           │   │   │   ├───InetxCustom
+│   │       │           │   │   │   └───Troubleshoot
+│   │       │           │   │   ├───MstrDtl
+│   │       │           │   │   └───SetParam
+│   │       │           │   ├───OpenGL
+│   │       │           │   │   ├───Drawing
+│   │       │           │   │   └───Rotate
+│   │       │           │   ├───PWordDemo
+│   │       │           │   ├───ShellControls
+│   │       │           │   │   └───ShellControlDemo
+│   │       │           │   ├───StdLib
+│   │       │           │   ├───Teechart
+│   │       │           │   ├───Toolsapi
+│   │       │           │   │   ├───ActionServices
+│   │       │           │   │   ├───Filters
+│   │       │           │   │   │   └───Preprocessor
+│   │       │           │   │   ├───INTAServices
+│   │       │           │   │   ├───Keybindings
+│   │       │           │   │   └───PackageDemo
+│   │       │           │   ├───VirtualListView
+│   │       │           │   ├───Webserv
+│   │       │           │   ├───WebServices
+│   │       │           │   │   ├───EchoService
+│   │       │           │   │   │   ├───Client
+│   │       │           │   │   │   └───Server
+│   │       │           │   │   ├───PostSOAP
+│   │       │           │   │   └───SOAPDataModule
+│   │       │           │   │       ├───Client
+│   │       │           │   │       └───Server
+│   │       │           │   ├───WebSnap
+│   │       │           │   │   ├───Biolife
+│   │       │           │   │   ├───CountryEditor
+│   │       │           │   │   ├───CountryReport
+│   │       │           │   │   ├───DumpModules
+│   │       │           │   │   ├───Images
+│   │       │           │   │   ├───include
+│   │       │           │   │   ├───LocateFileService
+│   │       │           │   │   ├───MasterDetail
+│   │       │           │   │   ├───PhotoGallery
+│   │       │           │   │   └───StreamImage
+│   │       │           │   └───WinTools
+│   │       │           ├───Help
+│   │       │           │   └───Tools
+│   │       │           ├───Include
+│   │       │           │   ├───Atl
+│   │       │           │   ├───Config
+│   │       │           │   ├───Gl
+│   │       │           │   ├───Idl
+│   │       │           │   ├───Mfc
+│   │       │           │   │   ├───Chs
+│   │       │           │   │   ├───Cht
+│   │       │           │   │   ├───Deu
+│   │       │           │   │   ├───Esp
+│   │       │           │   │   ├───Fra
+│   │       │           │   │   ├───Ita
+│   │       │           │   │   ├───Jpn
+│   │       │           │   │   ├───Kor
+│   │       │           │   │   └───res
+│   │       │           │   ├───oldstl
+│   │       │           │   ├───Rw
+│   │       │           │   ├───stl
+│   │       │           │   │   └───debug
+│   │       │           │   ├───Stlport
+│   │       │           │   ├───Sys
+│   │       │           │   ├───Using
+│   │       │           │   └───Vcl
+│   │       │           ├───Lib
+│   │       │           │   ├───Debug
+│   │       │           │   ├───Obj
+│   │       │           │   ├───Psdk
+│   │       │           │   └───Release
+│   │       │           ├───MergeModules
+│   │       │           ├───ObjRepos
+│   │       │           │   ├───ClxMdiapp
+│   │       │           │   ├───LogoApp
+│   │       │           │   ├───MDIApp
+│   │       │           │   ├───SDIApp
+│   │       │           │   └───Win2KApp
+│   │       │           ├───Ocx
+│   │       │           │   ├───Chartfx
+│   │       │           │   └───Vci
+│   │       │           │       ├───VciForm1
+│   │       │           │       ├───VciImpress
+│   │       │           │       └───VciSpell
+│   │       │           └───Source
+│   │       │               ├───Clx
+│   │       │               ├───ComServers
+│   │       │               │   ├───IE5
+│   │       │               │   ├───Office2K
+│   │       │               │   ├───Office97
+│   │       │               │   ├───OfficeXP
+│   │       │               │   └───XML3
+│   │       │               ├───Decision Cube
+│   │       │               ├───Indy
+│   │       │               ├───Internet
+│   │       │               ├───Mfc
+│   │       │               │   ├───chs
+│   │       │               │   ├───cht
+│   │       │               │   ├───deu
+│   │       │               │   ├───esp
+│   │       │               │   ├───fra
+│   │       │               │   ├───Intel
+│   │       │               │   ├───ita
+│   │       │               │   ├───jpn
+│   │       │               │   └───kor
+│   │       │               ├───Rtl
+│   │       │               │   ├───External
+│   │       │               │   ├───Lib
+│   │       │               │   ├───rtlinc
+│   │       │               │   ├───Source
+│   │       │               │   │   ├───conio
+│   │       │               │   │   ├───cstrings
+│   │       │               │   │   ├───defs
+│   │       │               │   │   ├───except
+│   │       │               │   │   ├───io
+│   │       │               │   │   ├───locale
+│   │       │               │   │   ├───math
+│   │       │               │   │   ├───mbcs
+│   │       │               │   │   ├───memory
+│   │       │               │   │   ├───misc
+│   │       │               │   │   ├───pcre
+│   │       │               │   │   ├───process
+│   │       │               │   │   ├───startup
+│   │       │               │   │   ├───stl
+│   │       │               │   │   │   ├───allstl
+│   │       │               │   │   │   ├───bitset
+│   │       │               │   │   │   ├───complex
+│   │       │               │   │   │   ├───iostream
+│   │       │               │   │   │   ├───limits
+│   │       │               │   │   │   ├───locale
+│   │       │               │   │   │   ├───predecl
+│   │       │               │   │   │   ├───stdex
+│   │       │               │   │   │   ├───stl
+│   │       │               │   │   │   ├───string
+│   │       │               │   │   │   └───valarr
+│   │       │               │   │   ├───threads
+│   │       │               │   │   ├───time
+│   │       │               │   │   └───vcl
+│   │       │               │   └───Tools
+│   │       │               ├───Soap
+│   │       │               ├───Toolsapi
+│   │       │               ├───vcl
+│   │       │               └───webmidas
+│   │       ├───System32
+│   │       └───Temp
+│   ├───Catalog
+│   ├───Corel
+│   │   ├───Corel Content
+│   │   │   ├───Extensions
+│   │   │   ├───Fills
+│   │   │   ├───Fonts
+│   │   │   └───Trays
+│   │   │       └───Tray
+│   │   └───CorelDRAW 2017 Samples
+│   ├───Custom Office Templates
+│   ├───Excel.en-us
+│   ├───Groove.en-us
+│   ├───InfoPath.en-us
+│   ├───Lightshot
+│   ├───My Palettes
+│   ├───Office.en-us
+│   │   └───1033
+│   ├───Office64.en-us
+│   ├───Outlook.en-us
+│   ├───PowerPoint.en-us
+│   │   └───OneNote.en-us
+│   ├───ProPlus.WW
+│   ├───Publisher.en-us
+│   ├───Rosebud.en-us
+│   ├───Sound recordings
+│   │   └───semester 2
+│   ├───Updates
+│   ├───Word.en-us
+│   └───Youcam
+│       └───Proofing.en-us
+│           ├───Proof.en
+│           ├───Proof.es
+│           └───Proof.fr
+├───Downloads
+│   └───C++Builder6
+│       ├───IB6.5
+│       │   ├───ADOBE
+│       │   ├───CLIENT
+│       │   │   ├───BIN
+│       │   │   ├───DOC
+│       │   │   ├───EXAMPLES
+│       │   │   │   ├───API
+│       │   │   │   ├───GPRE
+│       │   │   │   ├───RAD
+│       │   │   │   │   ├───CBuilder5
+│       │   │   │   │   │   ├───BkQuery
+│       │   │   │   │   │   ├───CSDemos
+│       │   │   │   │   │   ├───IBDemo
+│       │   │   │   │   │   └───MastApp
+│       │   │   │   │   └───DELPHI6
+│       │   │   │   │       ├───IBDEMO
+│       │   │   │   │       ├───IBMastApp
+│       │   │   │   │       ├───IBSilentInstall
+│       │   │   │   │       └───IBX
+│       │   │   │   │           ├───ADMIN
+│       │   │   │   │           ├───CACHEDUP
+│       │   │   │   │           ├───IBXEvents
+│       │   │   │   │           ├───SQLMonitor
+│       │   │   │   │           └───ThreadedIBX
+│       │   │   │   └───SERVICES
+│       │   │   ├───Microsoft
+│       │   │   └───SDK
+│       │   │       ├───INCLUDE
+│       │   │       ├───LIB
+│       │   │       └───LIB_MS
+│       │   ├───IBX
+│       │   ├───InterClient
+│       │   │   ├───bin
+│       │   │   ├───docs
+│       │   │   │   ├───examples
+│       │   │   │   ├───help
+│       │   │   │   ├───images
+│       │   │   │   ├───introduction
+│       │   │   │   │   └───images
+│       │   │   │   ├───readmes
+│       │   │   │   ├───slide_show
+│       │   │   │   │   └───images
+│       │   │   │   └───specifications
+│       │   │   │       └───interbase
+│       │   │   │           └───interclient
+│       │   │   │               └───utils
+│       │   │   ├───examples
+│       │   │   └───jbuilder_help
+│       │   ├───ODBC
+│       │   └───SERVER
+│       │       ├───BIN
+│       │       ├───DOC
+│       │       ├───EXAMPLES
+│       │       │   ├───API
+│       │       │   ├───DATABASE
+│       │       │   ├───FILTER
+│       │       │   ├───GPRE
+│       │       │   ├───RAD
+│       │       │   │   ├───CBuilder5
+│       │       │   │   │   ├───BkQuery
+│       │       │   │   │   ├───CSDemos
+│       │       │   │   │   ├───IBDemo
+│       │       │   │   │   └───MastApp
+│       │       │   │   └───DELPHI6
+│       │       │   │       ├───IBDEMO
+│       │       │   │       ├───IBMastApp
+│       │       │   │       ├───IBSilentInstall
+│       │       │   │       └───IBX
+│       │       │   │           ├───ADMIN
+│       │       │   │           ├───CACHEDUP
+│       │       │   │           ├───IBXEvents
+│       │       │   │           ├───SQLMonitor
+│       │       │   │           └───ThreadedIBX
+│       │       │   ├───SECURITY
+│       │       │   ├───SERVICES
+│       │       │   └───UDF
+│       │       ├───INTL
+│       │       ├───Microsoft
+│       │       ├───SDK
+│       │       │   ├───INCLUDE
+│       │       │   ├───LIB
+│       │       │   └───LIB_MS
+│       │       └───UDF
+│       ├───INSTALL
+│       │   ├───Common
+│       │   │   └───Borland Shared
+│       │   │       ├───BDE
+│       │   │       ├───Data
+│       │   │       ├───Database Desktop
+│       │   │       ├───DBExpress
+│       │   │       ├───Debugger
+│       │   │       ├───Images
+│       │   │       │   ├───Backgrnd
+│       │   │       │   ├───Buttons
+│       │   │       │   ├───Cursors
+│       │   │       │   ├───Default
+│       │   │       │   ├───Icons
+│       │   │       │   └───Splash
+│       │   │       │       ├───16Color
+│       │   │       │       └───256Color
+│       │   │       ├───MSHelp
+│       │   │       └───SampleDictionary
+│       │   ├───program files
+│       │   │   └───Borland
+│       │   │       └───CBuilder6
+│       │   │           ├───Bin
+│       │   │           │   ├───Netscap3
+│       │   │           │   ├───Netscp35
+│       │   │           │   ├───Netscp36
+│       │   │           │   └───Netscp41
+│       │   │           ├───Doc
+│       │   │           ├───Examples
+│       │   │           │   ├───Ado
+│       │   │           │   │   ├───Briefcase
+│       │   │           │   │   └───Shape
+│       │   │           │   ├───AppEvents
+│       │   │           │   ├───Apps
+│       │   │           │   │   ├───Autocon
+│       │   │           │   │   ├───Autosrv
+│       │   │           │   │   ├───Canvas
+│       │   │           │   │   ├───Colordlg
+│       │   │           │   │   ├───Cursors
+│       │   │           │   │   ├───Doodle
+│       │   │           │   │   ├───FindRep
+│       │   │           │   │   ├───Header
+│       │   │           │   │   ├───ImageView
+│       │   │           │   │   ├───IpcDemos
+│       │   │           │   │   ├───MiniComp
+│       │   │           │   │   ├───MultiPag
+│       │   │           │   │   ├───OwnerList
+│       │   │           │   │   ├───Printing
+│       │   │           │   │   ├───ProcView
+│       │   │           │   │   ├───RichEdit
+│       │   │           │   │   │   ├───Deu
+│       │   │           │   │   │   ├───Enu
+│       │   │           │   │   │   └───Fra
+│       │   │           │   │   ├───Scrollbar
+│       │   │           │   │   ├───Switch
+│       │   │           │   │   ├───SysSound
+│       │   │           │   │   ├───Tab
+│       │   │           │   │   ├───Threads
+│       │   │           │   │   ├───TrayIcon
+│       │   │           │   │   ├───TwoForms
+│       │   │           │   │   └───Wpm
+│       │   │           │   ├───CodeGuard
+│       │   │           │   ├───Controls
+│       │   │           │   │   ├───SingleInst
+│       │   │           │   │   ├───Source
+│       │   │           │   │   ├───Traydemo
+│       │   │           │   │   └───VersionInfo
+│       │   │           │   ├───ConvertIt
+│       │   │           │   ├───Corba
+│       │   │           │   │   ├───atm
+│       │   │           │   │   └───corbamidas
+│       │   │           │   ├───CustomDraw
+│       │   │           │   ├───DBTasks
+│       │   │           │   │   ├───BkQuery
+│       │   │           │   │   ├───CachedUp
+│       │   │           │   │   ├───Contacts
+│       │   │           │   │   ├───CSDemos
+│       │   │           │   │   ├───CtrlGrid
+│       │   │           │   │   ├───DBErrors
+│       │   │           │   │   ├───Filter
+│       │   │           │   │   ├───Find
+│       │   │           │   │   ├───FishFact
+│       │   │           │   │   ├───Gds
+│       │   │           │   │   ├───GDSDemo
+│       │   │           │   │   ├───IBDemo
+│       │   │           │   │   ├───LookUp
+│       │   │           │   │   ├───MastApp
+│       │   │           │   │   ├───MtsPool
+│       │   │           │   │   ├───NavMDI
+│       │   │           │   │   ├───NavSDI
+│       │   │           │   │   ├───NDXBuild
+│       │   │           │   │   ├───Objrepos
+│       │   │           │   │   ├───QBFDemo
+│       │   │           │   │   ├───QJoin
+│       │   │           │   │   ├───QuickRpt
+│       │   │           │   │   └───TextData
+│       │   │           │   ├───DDraw
+│       │   │           │   │   ├───DDraw1a
+│       │   │           │   │   ├───DDraw1b
+│       │   │           │   │   ├───DDraw1c
+│       │   │           │   │   ├───DDraw2
+│       │   │           │   │   ├───DDraw3
+│       │   │           │   │   ├───DDrawcp
+│       │   │           │   │   └───utils
+│       │   │           │   ├───Doc
+│       │   │           │   │   ├───AutoProj
+│       │   │           │   │   ├───CBrowse
+│       │   │           │   │   ├───DirOutln
+│       │   │           │   │   ├───Filmanex
+│       │   │           │   │   ├───GraphEx
+│       │   │           │   │   ├───OleCtnrs
+│       │   │           │   │   ├───OLEWord1
+│       │   │           │   │   ├───OLEWord2
+│       │   │           │   │   ├───TextEdit
+│       │   │           │   │   ├───VarArray
+│       │   │           │   │   ├───VarLock
+│       │   │           │   │   └───VarToInt
+│       │   │           │   ├───Docking
+│       │   │           │   ├───Experts
+│       │   │           │   ├───FastNet
+│       │   │           │   │   ├───DayTime
+│       │   │           │   │   ├───Echo
+│       │   │           │   │   ├───Finger
+│       │   │           │   │   ├───FTP
+│       │   │           │   │   ├───HTTP
+│       │   │           │   │   ├───MsgDemo
+│       │   │           │   │   ├───NNTP
+│       │   │           │   │   ├───POP3
+│       │   │           │   │   ├───SMTP
+│       │   │           │   │   ├───Stream
+│       │   │           │   │   ├───Time
+│       │   │           │   │   └───URL
+│       │   │           │   ├───Games
+│       │   │           │   │   ├───EarthPng
+│       │   │           │   │   ├───Football
+│       │   │           │   │   └───Swat
+│       │   │           │   ├───Icons
+│       │   │           │   ├───Indy
+│       │   │           │   │   ├───BasicClientServer
+│       │   │           │   │   ├───EchoClient
+│       │   │           │   │   ├───EchoServer
+│       │   │           │   │   ├───FingerClient
+│       │   │           │   │   ├───ParseURI
+│       │   │           │   │   ├───PingGUI
+│       │   │           │   │   ├───Proxy
+│       │   │           │   │   ├───QotDClient
+│       │   │           │   │   ├───SimpleServer
+│       │   │           │   │   ├───SSLTunnel
+│       │   │           │   │   ├───TelnetClient
+│       │   │           │   │   ├───TimeClient
+│       │   │           │   │   ├───TimeServer
+│       │   │           │   │   ├───TrivialFTPClient
+│       │   │           │   │   ├───Tunnel
+│       │   │           │   │   ├───WhoisGUI
+│       │   │           │   │   └───ZipCodeLookup
+│       │   │           │   ├───Internet
+│       │   │           │   │   ├───ApacheDSO
+│       │   │           │   │   │   └───Hello
+│       │   │           │   │   └───Chat
+│       │   │           │   ├───MFC
+│       │   │           │   │   ├───Advanced
+│       │   │           │   │   │   ├───ChatSrvr
+│       │   │           │   │   │   │   └───Res
+│       │   │           │   │   │   ├───Chatter
+│       │   │           │   │   │   │   └───Res
+│       │   │           │   │   │   ├───ChkBook
+│       │   │           │   │   │   │   └───Res
+│       │   │           │   │   │   ├───Collect
+│       │   │           │   │   │   │   ├───L.Jpn
+│       │   │           │   │   │   │   │   └───Res
+│       │   │           │   │   │   │   └───Res
+│       │   │           │   │   │   ├───Cube
+│       │   │           │   │   │   │   └───Res
+│       │   │           │   │   │   ├───Fire
+│       │   │           │   │   │   │   └───Res
+│       │   │           │   │   │   ├───Mtgdi
+│       │   │           │   │   │   │   └───Res
+│       │   │           │   │   │   ├───Mtmdi
+│       │   │           │   │   │   │   └───Jpn
+│       │   │           │   │   │   ├───MTRecalc
+│       │   │           │   │   │   │   └───Res
+│       │   │           │   │   │   ├───Mutexes
+│       │   │           │   │   │   │   └───Res
+│       │   │           │   │   │   ├───OldBars
+│       │   │           │   │   │   │   └───Res
+│       │   │           │   │   │   └───Speakn
+│       │   │           │   │   │       ├───Jpn
+│       │   │           │   │   │       └───Res
+│       │   │           │   │   ├───Controls
+│       │   │           │   │   │   ├───Button
+│       │   │           │   │   │   └───Circ1
+│       │   │           │   │   ├───General
+│       │   │           │   │   │   └───Cmnctrls
+│       │   │           │   │   │       └───Res
+│       │   │           │   │   ├───Ole
+│       │   │           │   │   │   ├───Superpad
+│       │   │           │   │   │   │   ├───Jpn
+│       │   │           │   │   │   │   └───Res
+│       │   │           │   │   │   └───Wordpad
+│       │   │           │   │   │       └───Res
+│       │   │           │   │   └───Utility
+│       │   │           │   │       ├───Batch
+│       │   │           │   │       └───Guidegen
+│       │   │           │   │           └───Res
+│       │   │           │   ├───Midas
+│       │   │           │   │   ├───ActiveFm
+│       │   │           │   │   ├───Adhoc
+│       │   │           │   │   ├───Briefcase
+│       │   │           │   │   ├───EmpEdit
+│       │   │           │   │   ├───InternetExpress
+│       │   │           │   │   │   ├───CustomerList
+│       │   │           │   │   │   ├───InetxCustom
+│       │   │           │   │   │   └───Troubleshoot
+│       │   │           │   │   ├───MstrDtl
+│       │   │           │   │   └───SetParam
+│       │   │           │   ├───OpenGL
+│       │   │           │   │   ├───Drawing
+│       │   │           │   │   └───Rotate
+│       │   │           │   ├───PWordDemo
+│       │   │           │   ├───ShellControls
+│       │   │           │   │   └───ShellControlDemo
+│       │   │           │   ├───StdLib
+│       │   │           │   ├───Teechart
+│       │   │           │   ├───Toolsapi
+│       │   │           │   │   ├───ActionServices
+│       │   │           │   │   ├───Filters
+│       │   │           │   │   │   └───Preprocessor
+│       │   │           │   │   ├───INTAServices
+│       │   │           │   │   ├───Keybindings
+│       │   │           │   │   └───PackageDemo
+│       │   │           │   ├───VirtualListView
+│       │   │           │   ├───Webserv
+│       │   │           │   ├───WebServices
+│       │   │           │   │   ├───EchoService
+│       │   │           │   │   │   ├───Client
+│       │   │           │   │   │   └───Server
+│       │   │           │   │   ├───PostSOAP
+│       │   │           │   │   └───SOAPDataModule
+│       │   │           │   │       ├───Client
+│       │   │           │   │       └───Server
+│       │   │           │   ├───WebSnap
+│       │   │           │   │   ├───Biolife
+│       │   │           │   │   ├───CountryEditor
+│       │   │           │   │   ├───CountryReport
+│       │   │           │   │   ├───DumpModules
+│       │   │           │   │   ├───Images
+│       │   │           │   │   ├───include
+│       │   │           │   │   ├───LocateFileService
+│       │   │           │   │   ├───MasterDetail
+│       │   │           │   │   ├───PhotoGallery
+│       │   │           │   │   └───StreamImage
+│       │   │           │   └───WinTools
+│       │   │           ├───Help
+│       │   │           │   └───Tools
+│       │   │           ├───Include
+│       │   │           │   ├───Atl
+│       │   │           │   ├───Config
+│       │   │           │   ├───Gl
+│       │   │           │   ├───Idl
+│       │   │           │   ├───Mfc
+│       │   │           │   │   ├───Chs
+│       │   │           │   │   ├───Cht
+│       │   │           │   │   ├───Deu
+│       │   │           │   │   ├───Esp
+│       │   │           │   │   ├───Fra
+│       │   │           │   │   ├───Ita
+│       │   │           │   │   ├───Jpn
+│       │   │           │   │   ├───Kor
+│       │   │           │   │   └───res
+│       │   │           │   ├───oldstl
+│       │   │           │   ├───Rw
+│       │   │           │   ├───stl
+│       │   │           │   │   └───debug
+│       │   │           │   ├───Stlport
+│       │   │           │   ├───Sys
+│       │   │           │   ├───Using
+│       │   │           │   └───Vcl
+│       │   │           ├───Lib
+│       │   │           │   ├───Debug
+│       │   │           │   ├───Obj
+│       │   │           │   ├───Psdk
+│       │   │           │   └───Release
+│       │   │           ├───MergeModules
+│       │   │           ├───ObjRepos
+│       │   │           │   ├───ClxMdiapp
+│       │   │           │   ├───LogoApp
+│       │   │           │   ├───MDIApp
+│       │   │           │   ├───SDIApp
+│       │   │           │   └───Win2KApp
+│       │   │           ├───Ocx
+│       │   │           │   ├───Chartfx
+│       │   │           │   └───Vci
+│       │   │           │       ├───VciForm1
+│       │   │           │       ├───VciImpress
+│       │   │           │       └───VciSpell
+│       │   │           └───Source
+│       │   │               ├───Clx
+│       │   │               ├───ComServers
+│       │   │               │   ├───IE5
+│       │   │               │   ├───Office2K
+│       │   │               │   ├───Office97
+│       │   │               │   ├───OfficeXP
+│       │   │               │   └───XML3
+│       │   │               ├───Decision Cube
+│       │   │               ├───Indy
+│       │   │               ├───Internet
+│       │   │               ├───Mfc
+│       │   │               │   ├───chs
+│       │   │               │   ├───cht
+│       │   │               │   ├───deu
+│       │   │               │   ├───esp
+│       │   │               │   ├───fra
+│       │   │               │   ├───Intel
+│       │   │               │   ├───ita
+│       │   │               │   ├───jpn
+│       │   │               │   └───kor
+│       │   │               ├───Rtl
+│       │   │               │   ├───External
+│       │   │               │   ├───Lib
+│       │   │               │   ├───rtlinc
+│       │   │               │   ├───Source
+│       │   │               │   │   ├───conio
+│       │   │               │   │   ├───cstrings
+│       │   │               │   │   ├───defs
+│       │   │               │   │   ├───except
+│       │   │               │   │   ├───io
+│       │   │               │   │   ├───locale
+│       │   │               │   │   ├───math
+│       │   │               │   │   ├───mbcs
+│       │   │               │   │   ├───memory
+│       │   │               │   │   ├───misc
+│       │   │               │   │   ├───pcre
+│       │   │               │   │   ├───process
+│       │   │               │   │   ├───startup
+│       │   │               │   │   ├───stl
+│       │   │               │   │   │   ├───allstl
+│       │   │               │   │   │   ├───bitset
+│       │   │               │   │   │   ├───complex
+│       │   │               │   │   │   ├───iostream
+│       │   │               │   │   │   ├───limits
+│       │   │               │   │   │   ├───locale
+│       │   │               │   │   │   ├───predecl
+│       │   │               │   │   │   ├───stdex
+│       │   │               │   │   │   ├───stl
+│       │   │               │   │   │   ├───string
+│       │   │               │   │   │   └───valarr
+│       │   │               │   │   ├───threads
+│       │   │               │   │   ├───time
+│       │   │               │   │   └───vcl
+│       │   │               │   └───Tools
+│       │   │               ├───Soap
+│       │   │               ├───Toolsapi
+│       │   │               ├───vcl
+│       │   │               └───webmidas
+│       │   ├───System32
+│       │   └───Temp
+│       ├───kEYGEN
+│       │   ├───VER 1
+│       │   └───VER 2 (recomendado)
+│       └───VBROKER
+├───Favorites
+│   ├───Acer
+│   └───Links
+├───Links
+├───Music
+├───OneDrive
+├───Pictures
+│   ├───Camera Roll
+│   ├───Planet9
+│   ├───Saved Pictures
+│   │   ├───bluetooth
+│   │   ├───Pictures
+│   │   │   ├───foto
+│   │   │   ├───Instagram
+│   │   │   └───PhotosEditor
+│   │   ├───video bibi iis
+│   │   └───WhatsApp
+│   │       ├───Media
+│   │       │   ├───WhatsApp Documents
+│   │       │   │   ├───Private
+│   │       │   │   └───Sent
+│   │       │   ├───WhatsApp Images
+│   │       │   │   └───Sent
+│   │       │   ├───WhatsApp Profile Photos
+│   │       │   ├───WhatsApp Video
+│   │       │   │   ├───Private
+│   │       │   │   └───Sent
+│   │       │   └───WhatsApp_Statuses
+│   │       └───Sent
+│   └───Screenshots
+├───Saved Games
+├───Searches
+├───Videos
+│   └───Captures
+│       └───inshot
+└───VirtualBox VMs
+    ├───top
+    │   ├───Logs
+    │   └───Snapshots
+    └───XXPUAS
+        └───Logs
+
+
+
+C:\Users\Aspire> tasklist
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0          8 K
+System                           4 Services                   0        540 K
+Registry                       100 Services                   0     29.092 K
+smss.exe                       516 Services                   0        908 K
+csrss.exe                      892 Services                   0      4.584 K
+wininit.exe                   1016 Services                   0      5.896 K
+csrss.exe                       72 Console                    1      4.944 K
+winlogon.exe                  1044 Console                    1      8.824 K
+services.exe                  1084 Services                   0      7.512 K
+lsass.exe                     1108 Services                   0     20.472 K
+svchost.exe                   1224 Services                   0     29.472 K
+fontdrvhost.exe               1248 Console                    1      5.432 K
+fontdrvhost.exe               1256 Services                   0      2.164 K
+WUDFHost.exe                  1328 Services                   0      4.788 K
+svchost.exe                   1388 Services                   0     13.168 K
+dwm.exe                       1496 Console                    1     51.028 K
+svchost.exe                   1588 Services                   0     75.500 K
+svchost.exe                   1608 Services                   0     21.180 K
+svchost.exe                   1624 Services                   0     10.488 K
+svchost.exe                   1644 Services                   0     39.064 K
+svchost.exe                   1724 Services                   0     26.152 K
+svchost.exe                   1736 Services                   0     24.796 K
+svchost.exe                   2072 Services                   0     19.876 K
+svchost.exe                   2084 Services                   0     16.936 K
+atiesrxx.exe                  2236 Services                   0      5.356 K
+amdlogsr.exe                  2248 Services                   0      5.200 K
+svchost.exe                   2356 Services                   0     10.436 K
+atieclxx.exe                  2376 Console                    1      9.836 K
+Memory Compression            2420 Services                   0    101.336 K
+dasHost.exe                   2608 Services                   0     11.284 K
+svchost.exe                   2780 Services                   0     12.988 K
+svchost.exe                   2980 Services                   0     13.216 K
+sihost.exe                    3020 Console                    1     23.372 K
+svchost.exe                   3040 Console                    1     40.768 K
+svchost.exe                   2328 Services                   0      6.332 K
+taskhostw.exe                 2292 Console                    1     17.020 K
+svchost.exe                   3080 Services                   0      9.652 K
+ctfmon.exe                    3296 Console                    1     19.308 K
+svchost.exe                   3432 Services                   0     16.892 K
+spoolsv.exe                   3604 Services                   0     11.032 K
+explorer.exe                  3696 Console                    1    129.452 K
+svchost.exe                   3744 Services                   0     19.556 K
+AdminService.exe              3228 Services                   0      7.528 K
+armsvc.exe                    3268 Services                   0      5.752 K
+svchost.exe                   3160 Services                   0     23.032 K
+OfficeClickToRun.exe          3096 Services                   0     28.064 K
+GTFidoService.exe             3140 Services                   0     16.768 K
+Bridge_Service.exe            4100 Services                   0     11.952 K
+ibguard.exe                   4108 Services                   0      5.108 K
+QcomWlanSrvx64.exe            4248 Services                   0      5.408 K
+PsiService_2.exe              4256 Services                   0      4.840 K
+svchost.exe                   4276 Services                   0      7.472 K
+RtkAudUService64.exe          4288 Services                   0      9.572 K
+MsMpEng.exe                   4444 Services                   0    137.924 K
+svchost.exe                   4672 Services                   0     10.820 K
+svchost.exe                   4968 Console                    1     30.184 K
+StartMenuExperienceHost.e     5536 Console                    1     65.728 K
+ibserver.exe                  5576 Services                   0      5.896 K
+RuntimeBroker.exe             5668 Console                    1     20.252 K
+SearchApp.exe                 5840 Console                    1     99.808 K
+RuntimeBroker.exe             6136 Console                    1     43.720 K
+SettingSyncHost.exe           5904 Console                    1     14.744 K
+AVGBrowserCrashHandler.ex     6196 Services                   0      1.124 K
+GoogleCrashHandler.exe        6204 Services                   0      1.132 K
+AVGBrowserCrashHandler64.     6212 Services                   0      1.084 K
+GoogleCrashHandler64.exe      6236 Services                   0      1.084 K
+NisSrv.exe                    6408 Services                   0      8.664 K
+dllhost.exe                   6456 Services                   0     10.032 K
+TextInputHost.exe             6556 Console                    1     36.176 K
+ShellExperienceHost.exe       6676 Console                    1     47.260 K
+RuntimeBroker.exe             6768 Console                    1     14.780 K
+Cortana.exe                   7020 Console                    1     32.600 K
+RuntimeBroker.exe             7120 Console                    1     23.248 K
+svchost.exe                   5628 Console                    1     16.680 K
+svchost.exe                   6976 Services                   0     15.084 K
+chrome.exe                    8028 Console                    1    151.664 K
+chrome.exe                    8052 Console                    1      6.652 K
+chrome.exe                    7256 Console                    1    140.432 K
+chrome.exe                    4404 Console                    1     37.044 K
+chrome.exe                    6852 Console                    1     16.368 K
+chrome.exe                    1244 Console                    1     56.504 K
+chrome.exe                    4336 Console                    1     19.472 K
+SearchIndexer.exe             1776 Services                   0     36.000 K
+SgrmBroker.exe                5780 Services                   0      7.056 K
+svchost.exe                   7648 Services                   0      9.540 K
+SecurityHealthService.exe     2132 Services                   0     11.084 K
+MusNotifyIcon.exe             7140 Console                    1      1.788 K
+chrome.exe                    1652 Console                    1     80.172 K
+chrome.exe                    6292 Console                    1     67.068 K
+chrome.exe                    5700 Console                    1     66.400 K
+UserOOBEBroker.exe            2092 Console                    1      8.968 K
+svchost.exe                   7944 Services                   0     13.852 K
+chrome.exe                    7880 Console                    1     62.580 K
+chrome.exe                     236 Console                    1     78.260 K
+dllhost.exe                   7304 Console                    1     12.232 K
+RuntimeBroker.exe             2100 Console                    1     24.976 K
+chrome.exe                    1924 Console                    1     73.388 K
+chrome.exe                    7784 Console                    1     85.360 K
+powershell.exe                2624 Console                    1     78.300 K
+conhost.exe                   1180 Console                    1     16.116 K
+chrome.exe                    6848 Console                    1    116.376 K
+chrome.exe                    7768 Console                    1     29.156 K
+notepad.exe                   4204 Console                    1     17.944 K
+vds.exe                       7504 Services                   0     12.684 K
+cmd.exe                       8008 Console                    1     13.908 K
+conhost.exe                   5560 Console                    1     19.908 K
+Taskmgr.exe                    532 Console                    1     45.164 K
+SearchProtocolHost.exe        5500 Console                    1      8.220 K
+tasklist.exe                  7732 Console                    1      9.032 K
+WmiPrvSE.exe                  3656 Services                   0      9.284 K
+
+
+
+
+
+C:\Users\Aspire> help
+For more information on a specific command, type HELP command-name
+ASSOC          Displays or modifies file extension associations.
+ATTRIB         Displays or changes file attributes.
+BREAK          Sets or clears extended CTRL+C checking.
+BCDEDIT        Sets properties in boot database to control boot loading.
+CACLS          Displays or modifies access control lists (ACLs) of files.
+CALL           Calls one batch program from another.
+CD             Displays the name of or changes the current directory.
+CHCP           Displays or sets the active code page number.
+CHDIR          Displays the name of or changes the current directory.
+CHKDSK         Checks a disk and displays a status report.
+CHKNTFS        Displays or modifies the checking of disk at boot time.
+CLS            Clears the screen.
+CMD            Starts a new instance of the Windows command interpreter.
+COLOR          Sets the default console foreground and background colors.
+COMP           Compares the contents of two files or sets of files.
+COMPACT        Displays or alters the compression of files on NTFS partitions.
+CONVERT        Converts FAT volumes to NTFS.  You cannot convert the
+               current drive.
+COPY           Copies one or more files to another location.
+DATE           Displays or sets the date.
+DEL            Deletes one or more files.
+DIR            Displays a list of files and subdirectories in a directory.
+DISKPART       Displays or configures Disk Partition properties.
+DOSKEY         Edits command lines, recalls Windows commands, and
+               creates macros.
+DRIVERQUERY    Displays current device driver status and properties.
+ECHO           Displays messages, or turns command echoing on or off.
+ENDLOCAL       Ends localization of environment changes in a batch file.
+ERASE          Deletes one or more files.
+EXIT           Quits the CMD.EXE program (command interpreter).
+FC             Compares two files or sets of files, and displays the
+               differences between them.
+FIND           Searches for a text string in a file or files.
+FINDSTR        Searches for strings in files.
+FOR            Runs a specified command for each file in a set of files.
+FORMAT         Formats a disk for use with Windows.
+FSUTIL         Displays or configures the file system properties.
+FTYPE          Displays or modifies file types used in file extension
+               associations.
+GOTO           Directs the Windows command interpreter to a labeled line in
+               a batch program.
+GPRESULT       Displays Group Policy information for machine or user.
+GRAFTABL       Enables Windows to display an extended character set in
+               graphics mode.
+HELP           Provides Help information for Windows commands.
+ICACLS         Display, modify, backup, or restore ACLs for files and
+               directories.
+IF             Performs conditional processing in batch programs.
+LABEL          Creates, changes, or deletes the volume label of a disk.
+MD             Creates a directory.
+MKDIR          Creates a directory.
+MKLINK         Creates Symbolic Links and Hard Links
+MODE           Configures a system device.
+MORE           Displays output one screen at a time.
+MOVE           Moves one or more files from one directory to another
+               directory.
+OPENFILES      Displays files opened by remote users for a file share.
+PATH           Displays or sets a search path for executable files.
+PAUSE          Suspends processing of a batch file and displays a message.
+POPD           Restores the previous value of the current directory saved by
+               PUSHD.
+PRINT          Prints a text file.
+PROMPT         Changes the Windows command prompt.
+PUSHD          Saves the current directory then changes it.
+RD             Removes a directory.
+RECOVER        Recovers readable information from a bad or defective disk.
+REM            Records comments (remarks) in batch files or CONFIG.SYS.
+REN            Renames a file or files.
+RENAME         Renames a file or files.
+REPLACE        Replaces files.
+RMDIR          Removes a directory.
+ROBOCOPY       Advanced utility to copy files and directory trees
+SET            Displays, sets, or removes Windows environment variables.
+SETLOCAL       Begins localization of environment changes in a batch file.
+SC             Displays or configures services (background processes).
+SCHTASKS       Schedules commands and programs to run on a computer.
+SHIFT          Shifts the position of replaceable parameters in batch files.
+SHUTDOWN       Allows proper local or remote shutdown of machine.
+SORT           Sorts input.
+START          Starts a separate window to run a specified program or command.
+SUBST          Associates a path with a drive letter.
+SYSTEMINFO     Displays machine specific properties and configuration.
+TASKLIST       Displays all currently running tasks including services.
+TASKKILL       Kill or stop a running process or application.
+TIME           Displays or sets the system time.
+TITLE          Sets the window title for a CMD.EXE session.
+TREE           Graphically displays the directory structure of a drive or
+               path.
+TYPE           Displays the contents of a text file.
+VER            Displays the Windows version.
+VERIFY         Tells Windows whether to verify that your files are written
+               correctly to a disk.
+VOL            Displays a disk volume label and serial number.
+XCOPY          Copies files and directory trees.
+WMIC           Displays WMI information inside interactive command shell.
+
+For more information on tools see the command-line reference in the online help.
+
+
+
+
+C:\Users\Aspire> assoc
+.001=WinRAR
+.264=mplayerc64.264
+.386=vxdfile
+.3g2=mplayerc64.3g2
+.3ga=VLC.3ga
+.3gp=mplayerc64.3gp
+.3gp2=mplayerc64.3gp2
+.3gpp=mplayerc64.3gpp
+.669=VLC.669
+.7z=WinRAR
+.8ba=Photoshop.PlugIn
+.8bc=Photoshop.PlugIn
+.8be=Photoshop.PlugIn
+.8bf=Photoshop.PlugIn
+.8bi=Photoshop.PlugIn
+.8bp=Photoshop.PlugIn
+.8bs=Photoshop.PlugIn
+.8bx=Photoshop.PlugIn
+.8by=Photoshop.PlugIn
+.8li=Photoshop.PlugIn
+.a52=VLC.a52
+.AAC=WMP11.AssocFile.ADTS
+.abr=Photoshop.BrushesFile
+.acb=Photoshop.ColorBooks
+.accda=Access.ACCDAExtension.14
+.accdb=Access.Application.14
+.accdc=Access.ACCDCFile.14
+.accde=Access.ACCDEFile.14
+.accdr=Access.ACCDRFile.14
+.accdt=Access.ACCDTFile.14
+.accdu=Access.WizardUserDataFile.14
+.accdw=Access.WebApplicationReference.14
+.accft=Access.ACCFTFile.14
+.accountpicture-ms=accountpicturefile
+.acf=Photoshop.CustomFilterKernel
+.acl=ACLFile
+.aco=Photoshop.SwatchesFile
+.acrobatsecuritysettings=AcroExch.acrobatsecuritysettings
+.act=Photoshop.ColorTableFile
+.acv=Photoshop.CurvesFile
+.adcp=DeviceCentral.adcp
+.ade=Access.ADEFile.14
+.adn=Access.BlankProjectTemplate.14
+.ado=Photoshop.DuotoneSettingsFile
+.adobebridge=Adobe.adobebridge
+.adp=Access.Project.14
+.adpp=DeviceCentral.adpp
+.ADT=WMP11.AssocFile.ADTS
+.ADTS=WMP11.AssocFile.ADTS
+.advs=DeviceCentral.advs
+.ahs=Photoshop.HalftoneScreens
+.ahu=Photoshop.HueSatFile
+.aif=GOMAudio.aif
+.aifc=VLC.aifc
+.aiff=GOMAudio.aiff
+.alac=GOMPlayer.alac
+.alv=Photoshop.LevelsFile
+.amp=Photoshop.ArbitraryMapFile
+.ams=Photoshop.MonitorSetupFile
+.amv=WMP.PlayMedia
+.ani=anifile
+.aob=VLC.aob
+.ape=GOMAudio.ape
+.api=Photoshop.PrintingInksFile
+.apl=Photoshop.AdobePlugIn
+.appcontent-ms=ApplicationContent
+.application=Application.Manifest
+.appref-ms=Application.Reference
+.arj=WinRAR
+.asa=aspfile
+.ascs=DeviceCentral.ascs
+.asd=Word.AutoRecovery.8
+.ase=Photoshop.ExchangeableSwatchFile.55
+.asf=mplayerc64.asf
+.asl=Photoshop.Styles
+.asp=aspfile
+.ass=GOMPlayer.ass
+.ast=Photoshop.SepTablesFile
+.asv=Photoshop.ASVColAdjFile
+.asx=GOMPlayer.asx
+.atf=Photoshop.TransferFunctionsFile
+.atn=Photoshop.ActionsFile
+.au=VLC.au
+.ava=Photoshop.VariationsFile
+.avi=mplayerc64.avi
+.aw=AWFile
+.axt=Photoshop.AXTAdjColFile
+.b4s=VLC.b4s
+.bat=batfile
+.bdmv=WMP.PlayMedia
+.bik=mplayerc64.bik
+.bin=PowerISO
+.blg=Diagnostic.Perfmon.Document
+.blw=Photoshop.BWPresets
+.bmp=Paint.Picture
+.bpg=BorlandProjectGroup
+.bpk=BCBPackage
+.bpr=BCBProject
+.bz=WinRAR
+.bz2=WinRAR
+.c=DevCpp.c
+.cab=WinRAR
+.caf=GOMPlayer.caf
+.camp=campfile
+.cat=CATFile
+.cda=GOMAudio.cda
+.cdmp=cdmpfile
+.cdr=CorelDraw.Graphic.19
+.cdt=CorelDraw.Graphic.19
+.cdx=aspfile
+.cdxml=Microsoft.PowerShellCmdletDefinitionXML.1
+.cer=CERFile
+.cha=Photoshop.CHAFile
+.chk=chkfile
+.chm=chm.file
+.cin=Photoshop.CINFile.55
+.CLK=CorelDraw.Graphic.19
+.cmd=cmdfile
+.cmx=CorelDRAW.CMX.19
+.collection=Bridge.Collection
+.com=comfile
+.compositefont=Windows.CompositeFont
+.corelextension=zcf.corelextension
+.cpl=cplfile
+.cpp=DevCpp.cpp
+.cpt=CorelPHOTOPAINT.Image.19
+.crl=CRLFile
+.crt=CERFile
+.crtx=CRTXFile
+.csh=Photoshop.CustomShapes
+.csl=CorelDraw.Graphic.19
+.csp=Corel.SBProfile
+.css=CSSfile
+.csv=Excel.CSV
+.cue=VLC.cue
+.cur=curfile
+.daa=PowerISO
+.dav=mplayerc64.dav
+.db=dbfile
+.dcp=Photoshop.DNGCameraProfile.55
+.dcpr=Photoshop.DNGCameraProfileRecipe.55
+.dctx=IMEDictionaryCompiler
+.dctxc=IMEDictionaryCompiler
+.dds=ddsfile
+.der=CERFile
+.DES=CorelDESIGNER.Graphic.19
+.desklink=CLSID\{9E56BE61-C50F-11CF-9A2C-00A0C90A90CE}
+.deskthemepack=desktopthemepackfile
+.det=Outlook.File.det.14
+.dev=DevCpp.dev
+.devpackage=DevCpp.devpackage
+.devpak=DevCpp.devpak
+.dff=GOMAudio.dff
+.dfm=BCBForm
+.diagcab=Diagnostic.Cabinet
+.diagcfg=Diagnostic.Config
+.diagpkg=Diagnostic.Document
+.dib=Paint.Picture
+.dic=txtfile
+.divx=mplayerc64.divx
+.dll=dllfile
+.dmb=GOMPlayer.dmb
+.dmskm=GOMPlayer.dmskm
+.doc=Word.Document.8
+.dochtml=wordhtmlfile
+.docm=Word.DocumentMacroEnabled.12
+.docmhtml=wordmhtmlfile
+.docx=Word.Document.12
+.docxml=wordxmlfile
+.dot=Word.Template.8
+.dothtml=wordhtmltemplate
+.dotm=Word.TemplateMacroEnabled.12
+.dotx=Word.Template.12
+.dqy=dqyfile
+.drc=VLC.drc
+.drv=drvfile
+.dsf=GOMAudio.dsf
+.dsn=MSDASQL
+.dss=GOMPlayer.dss
+.dts=VLC.dts
+.duk=GOMPlayer.duk
+.dv=WMP.PlayMedia
+.dvd=GOMPlayer.dvd
+.dvr-ms=GOMPlayer.dvr-ms
+.eap=Photoshop.ExposureAdjustment
+.elm=ELMFile
+.emf=emffile
+.eml=Outlook.File.eml.14
+.evo=WMP.PlayMedia
+.evt=evtfile
+.evtx=evtxfile
+.exc=txtfile
+.exe=exefile
+.exr=Photoshop.OpenEXRFile.55
+.f4v=WMP.PlayMedia
+.fdf=AcroExch.FDFDoc
+.FDL=FDLFile
+.fdm=Outlook.File.fdm.14
+.ffo=Photoshop.FileInfo
+.fill=zcf.fillfile
+.flac=WMP11.AssocFile.FLAC
+.flv=mplayerc64.flv
+.fon=fonfile
+.FSL=FSLFile
+.fxg=Photoshop.FXGFileType.55
+.gas=GOMAudio.gas
+.gasx=GOMAudio.gasx
+.gbm=GOMPlayer.gbm
+.gcsx=GCSXFile
+.gfs=GrooveStub
+.gif=giffile
+.gitattributes=txtfile
+.gitignore=txtfile
+.gitmodules=txtfile
+.glk=GrooveLinkFile
+.glox=GLOXFile
+.gmmp=gmmpfile
+.gom=GOMPlayer.gom
+.gps=Gomplayer.Skinfile
+.gqsx=GQSXFile
+.gra=MSGraph.Chart.8
+.grd=Photoshop.Gradients
+.grfx=GraphStudioNext.GraphFile.v1
+.grp=MSProgramGroup
+.grv=GrooveFile
+.gsa=GrooveSpaceArchive
+.gsm=GOMPlayer.gsm
+.gta=GrooveToolArchive
+.gvi=VLC.gvi
+.gxf=GOMPlayer.gxf
+.gz=WinRAR
+.h=DevCpp.h
+.h264=GOMPlayer.h264
+.hdd=progId_VirtualBox.Shell.hdd
+.hdmov=WMP.PlayMedia
+.hdr=Photoshop.PortableBitMapFile.55
+.hlp=hlpfile
+.hol=Outlook.File.hol.14
+.hpp=DevCpp.hpp
+.hta=htafile
+.htm=AvgHTML
+.html=AvgHTML
+.hxa=MSHelp.hxa.2.5
+.hxc=MSHelp.hxc.2.5
+.hxd=MSHelp.hxd.2.5
+.hxe=MSHelp.hxe.2.5
+.hxf=MSHelp.hxf.2.5
+.hxh=MSHelp.hxh.2.5
+.hxi=MSHelp.hxi.2.5
+.hxk=MSHelp.hxk.2.5
+.hxq=MSHelp.hxq.2.5
+.hxr=MSHelp.hxr.2.5
+.hxs=MSHelp.hxs.2.5
+.hxt=MSHelp.hxt.2.5
+.hxv=MSHelp.hxv.2.5
+.hxw=MSHelp.hxa.2.5
+.icc=icmfile
+.icl=IconLibraryFile
+.icm=icmfile
+.ico=icofile
+.ics=Outlook.File.ics.14
+.ifo=WMP.PlayMedia
+.imesx=imesxfile
+.img=Windows.IsoFile
+.inf=inffile
+.infopathxml=InfoPath.Document.3
+.ini=inifile
+.iqy=iqyfile
+.iros=Photoshop.IRSettings
+.irs=Photoshop.IRSettings
+.isa=Photoshop.IRActions
+.iso=PowerISO
+.isz=PowerISO
+.it=GOMAudio.it
+.IVF=mplayerc64.ivf
+.jfif=pjpegfile
+.Job=JobObject
+.jod=Microsoft.Jet.OLEDB.4.0
+.jpe=jpegfile
+.jpeg=jpegfile
+.jpg=jpegfile
+.js=JSFile
+.JSE=JSEFile
+.jsx=JSXFile
+.jsxbin=JSXBINFile
+.jsxinc=JSXINCFile
+.jxr=wdpfile
+.k3g=GOMPlayer.k3g
+.kar=GOMAudio.kar
+.kys=Photoshop.KYSFile.55
+.label=Label
+.laccdb=Access.LockFile.14
+.ldb=Access.LockFile.14
+.lex=LEXFile
+.lha=WinRAR
+.library-ms=LibraryFolder
+.lmp4=GOMPlayer.lmp4
+.lnk=lnkfile
+.log=txtfile
+.lz=WinRAR
+.lzh=WinRAR
+.m1v=mplayerc64.m1v
+.m2p=WMP.PlayMedia
+.M2T=mplayerc64.m2t
+.M2TS=mplayerc64.m2ts
+.M2V=mplayerc64.m2v
+.m3u=WMP11.AssocFile.m3u
+.m3u8=GOMAudio.m3u8
+.m4a=WMP11.AssocFile.M4A
+.m4p=VLC.m4p
+.m4v=mplayerc64.m4v
+.mad=Access.Shortcut.Module.1
+.maf=Access.Shortcut.Form.1
+.mag=Access.Shortcut.Diagram.1
+.mam=Access.Shortcut.Macro.1
+.mapimail=CLSID\{9E56BE60-C50F-11CF-9A2C-00A0C90A90CE}
+.maq=Access.Shortcut.Query.1
+.mar=Access.Shortcut.Report.1
+.mas=Access.Shortcut.StoredProcedure.1
+.mat=Access.Shortcut.Table.1
+.mau=Access.Shortcut.Function.1
+.mav=Access.Shortcut.View.1
+.maw=Access.Shortcut.DataAccessPage.1
+.mda=Access.Extension.14
+.mdb=Access.MDBFile
+.mdbhtml=accesshtmlfile
+.mde=Access.MDEFile.14
+.mdn=Access.BlankDatabaseTemplate.14
+.mdt=Access.WizardDataFile.14
+.mdw=Access.Workgroup.14
+.mgc=MediaCatalogMGC
+.mht=mhtmlfile
+.mhtml=mhtmlfile
+.mid=GOMAudio.mid
+.midi=GOMAudio.midi
+.mk3d=mplayerc64.mk3d
+.mka=WMP11.AssocFile.MKA
+.mkv=mplayerc64.mkv
+.mlc=LpkSetup.1
+.mlp=VLC.mlp
+.mml=MediaCatalogMML
+.mmw=MediaCatalogMMW
+.mnu=Photoshop.MenuCustomizationFile.55
+.mo3=GOMAudio.mo3
+.MOD=WMP11.AssocFile.MPEG
+.mov=mplayerc64.mov
+.mp1=GOMAudio.mp1
+.mp2=GOMAudio.mp2
+.mp2v=mplayerc64.mp2v
+.mp3=WMP11.AssocFile.MP3
+.mp4=mplayerc64.mp4
+.mp4v=mplayerc64.mp4v
+.mpa=WMP11.AssocFile.MPEG
+.mpc=GOMAudio.mpc
+.mpcpl=mplayerc64.mpcpl
+.mpe=mplayerc64.mpe
+.mpeg=mplayerc64.mpeg
+.mpeg1=VLC.mpeg1
+.mpeg2=VLC.mpeg2
+.mpeg4=VLC.mpeg4
+.mpf=MediaPackageFile
+.mpg=mplayerc64.mpg
+.mpga=GOMAudio.mpga
+.mpl=GOMPlayer.mpl
+.mpls=WMP.PlayMedia
+.mpq=GOMPlayer.mpq
+.mptm=GOMAudio.mptm
+.mpv2=mplayerc64.mpv2
+.mpv4=WMP.PlayMedia
+.mqv=GOMPlayer.mqv
+.ms-windows-store-license=WindowsStore.License
+.msc=MSCFile
+.msg=Outlook.File.msg.14
+.msi=Msi.Package
+.msp=Msi.Patch
+.msrcincident=RemoteAssistance.1
+.msstyles=msstylesfile
+.msu=Microsoft.System.Update.1
+.mtm=GOMAudio.mtm
+.MTS=mplayerc64.mts
+.mtv=VLC.mtv
+.mxf=WMP.PlayMedia
+.mxi=Adobe.Extension.Information
+.mxp=Adobe.Extension.Package
+.mydocs=CLSID\{ECF03A32-103D-11d2-854D-006008059367}
+.ncg=GOMPlayer.ncg
+.nfo=MSInfoFile
+.nk2=Outlook.File.nk2.14
+.nsv=GOMPlayer.nsv
+.nuv=VLC.nuv
+.ocx=ocxfile
+.odc=odcfile
+.odccubefile=odccubefile
+.odcdatabasefile=odcdatabasefile
+.odcnewfile=odcnewfile
+.odctablecollectionfile=odctablecollectionfile
+.odctablefile=odctablefile
+.odp=PowerPoint.OpenDocumentPresentation.12
+.ods=Excel.OpenDocumentSpreadsheet.12
+.odt=Word.OpenDocumentText.12
+.ofs=Outlook.File.ofs.14
+.oft=Outlook.File.oft.14
+.ogm=mplayerc64.ogm
+.ogv=mplayerc64.ogv
+.ols=OfficeListShortcut
+.oma=GOMPlayer.oma
+.one=OneNote.Section.1
+.onepkg=OneNote.Package
+.onetoc=OneNote.TableOfContents
+.onetoc2=OneNote.TableOfContents.12
+.opc=OPCFile
+.oqy=oqyfile
+.osdx=opensearchdescription
+.ost=Outlook.File.ost.14
+.otf=otffile
+.otm=Outlook.File.otm.14
+.ova=progId_VirtualBox.Shell.ova
+.ovf=progId_VirtualBox.Shell.ovf
+.p10=P10File
+.p12=PFXFile
+.p7b=SPCFile
+.p7c=certificate_wab_auto_file
+.p7m=P7MFile
+.p7r=P7RFile
+.p7s=P7SFile
+.pab=Outlook.File.pab.14
+.partial=IE.AssocFile.PARTIAL
+.pat=CorelDraw.Graphic.19
+.pbk=pbkfile
+.pbm=Photoshop.RadianceFile.55
+.pcb=PCBFile
+.pcd=Photoshop.PCDFile.55
+.pcx=Photoshop.PCXFile.55
+.pdd=Photoshop.PDDFile.55
+.pdfxml=AcroExch.pdfxml
+.pdp=Photoshop.PDPFile.55
+.pdx=PDXFileType
+.perfmoncfg=Diagnostic.Perfmon.Config
+.pfm=pfmfile
+.pfx=PFXFile
+.pif=piffile
+.pko=PKOFile
+.pls=GOMAudio.pls
+.pnf=pnffile
+.png=pngfile
+.pot=PowerPoint.Template.8
+.pothtml=powerpointhtmltemplate
+.potm=PowerPoint.TemplateMacroEnabled.12
+.potx=PowerPoint.Template.12
+.ppa=PowerPoint.Addin.8
+.ppam=PowerPoint.Addin.12
+.ppkg=Microsoft.ProvTool.Provisioning.1
+.pps=PowerPoint.SlideShow.8
+.ppsm=PowerPoint.SlideShowMacroEnabled.12
+.ppsx=PowerPoint.SlideShow.12
+.ppt=PowerPoint.Show.8
+.ppthtml=powerpointhtmlfile
+.pptm=PowerPoint.ShowMacroEnabled.12
+.pptmhtml=powerpointmhtmlfile
+.pptx=PowerPoint.Show.12
+.pptxml=powerpointxmlfile
+.prf=DeviceCentral.prf
+.prs=Corel.PrintStyle
+.ps1=Microsoft.PowerShellScript.1
+.ps1xml=Microsoft.PowerShellXMLData.1
+.psb=Photoshop.PSBFile.55
+.psc1=Microsoft.PowerShellConsole.1
+.psd=Photoshop.Image.55
+.psd1=Microsoft.PowerShellData.1
+.psf=Photoshop.ProofSetup
+.psm1=Microsoft.PowerShellModule.1
+.psp=Photoshop.PreferencesFile
+.pssc=Microsoft.PowerShellSessionConfiguration.1
+.pst=Outlook.File.pst.14
+.pub=Publisher.Document.14
+.pubhtml=publisherhtmlfile
+.pubmhtml=publishermhtmlfile
+.pwz=PowerPoint.Wizard.8
+.pxr=Photoshop.PXRFile.55
+.py=Python.File
+.pyc=Python.CompiledFile
+.pyd=Python.Extension
+.pyo=Python.CompiledFile
+.pyw=Python.NoConFile
+.pyz=Python.ArchiveFile
+.pyzw=Python.NoConArchiveFile
+.qcp=VLC.qcp
+.qds=SavedDsQuery
+.qt=GOMPlayer.qt
+.r00=WinRAR
+.r01=WinRAR
+.r02=WinRAR
+.r03=WinRAR
+.r04=WinRAR
+.r05=WinRAR
+.r06=WinRAR
+.r07=WinRAR
+.r08=WinRAR
+.r09=WinRAR
+.r10=WinRAR
+.r11=WinRAR
+.r12=WinRAR
+.r13=WinRAR
+.r14=WinRAR
+.r15=WinRAR
+.r16=WinRAR
+.r17=WinRAR
+.r18=WinRAR
+.r19=WinRAR
+.r20=WinRAR
+.r21=WinRAR
+.r22=WinRAR
+.r23=WinRAR
+.r24=WinRAR
+.r25=WinRAR
+.r26=WinRAR
+.r27=WinRAR
+.r28=WinRAR
+.r29=WinRAR
+.ra=VLC.ra
+.ram=WMP.PlayMedia
+.rar=PowerISO.RAR
+.rat=ratfile
+.rc=DevCpp.rc
+.RDL=RDLFIle
+.RDP=RDP.File
+.rec=WMP.PlayMedia
+.reg=regfile
+.rels=xmlfile
+.resmoncfg=Diagnostic.Resmon.Config
+.rev=WinRAR.REV
+.rle=rlefile
+.rll=dllfile
+.rm=WMP.PlayMedia
+.rmi=GOMAudio.rmi
+.rmvb=WMP.PlayMedia
+.rpl=VLC.rpl
+.rqy=rqyfile
+.RSL=RSLFile
+.rso=GOMPlayer.rso
+.rt=GOMPlayer.rt
+.rtf=Word.RTF.8
+.s3m=GOMAudio.s3m
+.sbv=GOMPlayer.sbv
+.scf=SHCmdFile
+.scp=txtfile
+.scr=scrfile
+.sct=Photoshop.SCTFile.55
+.sdf=Microsoft SQL Server Compact Edition Database File
+.SDL=SDLFIle
+.sdp=VLC.sdp
+.search-ms=SearchFolder
+.searchConnector-ms=SearchConnectorFolder
+.secstore=AcroExch.SecStore
+.settingcontent-ms=SettingContent
+.sfcache=RDBFileProperties.1
+.sh=sh_auto_file
+.shc=Photoshop.ShapeCurves
+.shh=Photoshop.SHHFile.55
+.shn=GOMPlayer.shn
+.shtml=AvgHTML
+.skm=GOMPlayer.skm
+.sldm=PowerPoint.SlideMacroEnabled.12
+.sldx=PowerPoint.Slide.12
+.slk=Excel.SLK
+.smi=GOMPlayer.smi
+.smil=GOMPlayer.smil
+.smk=mplayerc64.smk
+.snd=VLC.snd
+.spc=SPCFile
+.spx=GOMPlayer.spx
+.srt=GOMPlayer.srt
+.ssa=GOMPlayer.ssa
+.ssif=mplayerc64.ssif
+.SSL=SSLFile
+.sst=CertificateStoreFile
+.sta=Photoshop.STAFile.55
+.sub=GOMPlayer.sub
+.sup=GOMPlayer.sup
+.svg=svgfile
+.svi=GOMPlayer.svi
+.switchboard=Adobe.SwitchBoard.server
+.symlink=.symlink
+.sys=sysfile
+.tak=GOMPlayer.tak
+.tar=WinRAR
+.taz=WinRAR
+.tbz=WinRAR
+.tbz2=WinRAR
+.template=DevCpp.template
+.tga=Photoshop.TGAFile.55
+.tgz=WinRAR
+.theme=themefile
+.themepack=themepackfile
+.thmx=OfficeTheme.12
+.thp=VLC.thp
+.tif=TIFImage.Document
+.tiff=TIFImage.Document
+.tlz=WinRAR
+.tp=WMP.PlayMedia
+.tpl=Photoshop.ToolPresets
+.tps=WMP.PlayMedia
+.tray=CorelCONNECT.Tray.6
+.trp=mplayerc64.trp
+.TS=mplayerc64.ts
+.tta=GOMPlayer.tta
+.ttc=ttcfile
+.ttf=ttffile
+.TTS=WMP11.AssocFile.TTS
+.txt=txtfile
+.txz=WinRAR
+.UDL=MSDASC
+.uif=PowerISO
+.URL=InternetShortcut
+.uu=WinRAR
+.uue=WinRAR
+.uxdc=UXDCFILE
+.VBE=VBEFile
+.vbox=progId_VirtualBox.Shell.vbox
+.vbox-extpack=progId_VirtualBox.Shell.vbox-extpack
+.vbs=VBSFile
+.vcf=Outlook.File.vcf.14
+.vcg=GrooveVCard
+.vcs=Outlook.File.vcs.14
+.vdi=progId_VirtualBox.Shell.vdi
+.vdr=GOMPlayer.vdr
+.vdw=VisioViewer.Viewer
+.vdx=VisioViewer.Viewer
+.vhd=progId_VirtualBox.Shell.vhd
+.vhdpmem=Windows.VhdPmemFile
+.vhdx=Windows.VhdFile
+.video=mplayerc64.video
+.vlc=VLC.vlc
+.vmdk=progId_VirtualBox.Shell.vmdk
+.vob=mplayerc64.vob
+.voc=VLC.voc
+.vp6=GOMPlayer.vp6
+.vp7=GOMPlayer.vp7
+.vqf=VLC.vqf
+.vsd=VisioViewer.Viewer
+.vsdm=VisioViewer.Viewer
+.vsdx=VisioViewer.Viewer
+.vss=VisioViewer.Viewer
+.vssm=VisioViewer.Viewer
+.vssx=VisioViewer.Viewer
+.vst=VisioViewer.Viewer
+.vstm=VisioViewer.Viewer
+.vsto=bootstrap.vsto.1
+.vstx=VisioViewer.Viewer
+.vsx=VisioViewer.Viewer
+.vtt=GOMPlayer.vtt
+.vtx=VisioViewer.Viewer
+.vxd=vxdfile
+.w64=VLC.w64
+.wab=wab_auto_file
+.wav=WMP11.AssocFile.WAV
+.wax=WMP11.AssocFile.WAX
+.wbcat=wbcatfile
+.wbk=Word.Backup.8
+.wcx=wcxfile
+.wdp=wdpfile
+.webm=mplayerc64.webm
+.webpnp=webpnpFile
+.website=Microsoft.Website
+.wiz=Word.Wizard.8
+.wizhtml=accessthmltemplate
+.wll=Word.Addin.8
+.wm=WMP11.AssocFile.ASF
+.wma=WMP11.AssocFile.WMA
+.WMD=WMP11.AssocFile.WMD
+.wmdb=WMP.WMDBFile
+.wmf=wmffile
+.wmp=GOMPlayer.wmp
+.WMS=WMP11.AssocFile.WMS
+.wmv=mplayerc64.wmv
+.wmx=GOMPlayer.wmx
+.wmz=WMP11.AssocFile.WMZ
+.wpl=WMP11.AssocFile.WPL
+.wsc=scriptletfile
+.WSF=WSFFile
+.WSH=WSHFile
+.WTV=VLC.wtv
+.wtx=txtfile
+.wv=GOMAudio.wv
+.wvx=GOMPlayer.wvx
+.xa=VLC.xa
+.xaml=Windows.XamlDocument
+.xbap=Windows.Xbap
+.xdi=PowerISO
+.xdp=AcroExch.XDPDoc
+.xesc=VLC.xesc
+.xevgenxml=XEV.GenericApp
+.xfdf=AcroExch.XFDFDoc
+.xfm=BCBCLXForm
+.xht=AvgHTML
+.xhtml=AvgHTML
+.xla=Excel.Addin
+.xlam=Excel.AddInMacroEnabled
+.xld=Excel.Dialog
+.xlk=Excel.Backup
+.xll=Excel.XLL
+.xlm=Excel.Macrosheet
+.xls=Excel.Sheet.8
+.xlsb=Excel.SheetBinaryMacroEnabled.12
+.xlshtml=Excelhtmlfile
+.xlsm=Excel.SheetMacroEnabled.12
+.xlsmhtml=excelmhtmlfile
+.xlsx=Excel.Sheet.12
+.xlt=Excel.Template.8
+.xlthtml=Excelhtmltemplate
+.xltm=Excel.TemplateMacroEnabled
+.xltx=Excel.Template
+.xlw=Excel.Workspace
+.xlxml=Excelxmlss
+.xm=GOMAudio.xm
+.xml=xmlfile
+.xrm-ms=MSSppLicenseFile
+.xsf=InfoPath.SolutionManifest.3
+.xsl=xslfile
+.xsn=InfoPath.Solution.3
+.xspf=VLC.xspf
+.xtp=XTPFile
+.xtp2=XTP2File
+.xxe=WinRAR
+.xz=WinRAR
+.z=WinRAR
+.ZFSendToTarget=CLSID\{888DCA60-FC0A-11CF-8F0F-00C04FD7D062}
+.zip=WinRAR.ZIP
+.zipx=WinRAR
+.zxp=Adobe.Extension.Package.ZipFormat
+
+
+
+
+
+C:\Users\Aspire> echo
+ECHO is on.
+
+
+
+C:\Users\Aspire> date
+The current date is: 19/08/2022
+Enter the new date: (dd-mm-yy)
+(menampilkan tanggal pada layar cmd)
+
+
+
+C:\Users\Aspire> ver
+
+Microsoft Windows [Version 10.0.19041.1348]
+(menampilkan informasi sistem)
+
+
+C:\Users\Aspire> time
+The current time is:  9:47:09,18
+Enter the new time:
+(menampilkan waktu pada layar cmd)
+
+
+C:\Users\Aspire> start
+Microsoft Windows [Version 10.0.19041.1348]
+(c) Microsoft Corporation. All rights reserved.
+(membuka jendela CMD baru)
+
+
+
+
+
+C:\Users\Aspire> sc
+DESCRIPTION:
+        SC is a command line program used for communicating with the
+        Service Control Manager and services.
+USAGE:
+        sc <server> [command] [service name] <option1> <option2>...
+
+
+        The option <server> has the form "\\ServerName"
+        Further help on commands can be obtained by typing: "sc [command]"
+        Commands:
+          query-----------Queries the status for a service, or
+                          enumerates the status for types of services.
+          queryex---------Queries the extended status for a service, or
+                          enumerates the status for types of services.
+          start-----------Starts a service.
+          pause-----------Sends a PAUSE control request to a service.
+          interrogate-----Sends an INTERROGATE control request to a service.
+          continue--------Sends a CONTINUE control request to a service.
+          stop------------Sends a STOP request to a service.
+          config----------Changes the configuration of a service (persistent).
+          description-----Changes the description of a service.
+          failure---------Changes the actions taken by a service upon failure.
+          failureflag-----Changes the failure actions flag of a service.
+          sidtype---------Changes the service SID type of a service.
+          privs-----------Changes the required privileges of a service.
+          managedaccount--Changes the service to mark the service account
+                          password as managed by LSA.
+          qc--------------Queries the configuration information for a service.
+          qdescription----Queries the description for a service.
+          qfailure--------Queries the actions taken by a service upon failure.
+          qfailureflag----Queries the failure actions flag of a service.
+          qsidtype--------Queries the service SID type of a service.
+          qprivs----------Queries the required privileges of a service.
+          qtriggerinfo----Queries the trigger parameters of a service.
+          qpreferrednode--Queries the preferred NUMA node of a service.
+          qmanagedaccount-Queries whether a services uses an account with a
+                          password managed by LSA.
+          qprotection-----Queries the process protection level of a service.
+          quserservice----Queries for a local instance of a user service template.
+          delete----------Deletes a service (from the registry).
+          create----------Creates a service. (adds it to the registry).
+          control---------Sends a control to a service.
+          sdshow----------Displays a service's security descriptor.
+          sdset-----------Sets a service's security descriptor.
+          showsid---------Displays the service SID string corresponding to an arbitrary name.
+          triggerinfo-----Configures the trigger parameters of a service.
+          preferrednode---Sets the preferred NUMA node of a service.
+          GetDisplayName--Gets the DisplayName for a service.
+          GetKeyName------Gets the ServiceKeyName for a service.
+          EnumDepend------Enumerates Service Dependencies.
+
+        The following commands don't require a service name:
+        sc <server> <command> <option>
+          boot------------(ok | bad) Indicates whether the last boot should
+                          be saved as the last-known-good boot configuration
+          Lock------------Locks the Service Database
+          QueryLock-------Queries the LockStatus for the SCManager Database
+EXAMPLE:
+        sc start MyService
+
+
+QUERY and QUERYEX OPTIONS:
+        If the query command is followed by a service name, the status
+        for that service is returned.  Further options do not apply in
+        this case.  If the query command is followed by nothing or one of
+        the options listed below, the services are enumerated.
+    type=    Type of services to enumerate (driver, service, userservice, all)
+             (default = service)
+    state=   State of services to enumerate (inactive, all)
+             (default = active)
+    bufsize= The size (in bytes) of the enumeration buffer
+             (default = 4096)
+    ri=      The resume index number at which to begin the enumeration
+             (default = 0)
+    group=   Service group to enumerate
+             (default = all groups)
+
+SYNTAX EXAMPLES
+sc query                - Enumerates status for active services & drivers
+sc query eventlog       - Displays status for the eventlog service
+sc queryex eventlog     - Displays extended status for the eventlog service
+sc query type= driver   - Enumerates only active drivers
+sc query type= service  - Enumerates only Win32 services
+sc query state= all     - Enumerates all services & drivers
+sc query bufsize= 50    - Enumerates with a 50 byte buffer
+sc query ri= 14         - Enumerates with resume index = 14
+sc queryex group= ""    - Enumerates active services not in a group
+sc query type= interact - Enumerates all interactive services
+sc query type= driver group= NDIS     - Enumerates all NDIS drivers
+
+
+
+
+C:\Users\Aspire> color
+
+C:\Users\Aspire> color ble
+Sets the default console foreground and background colors.
+
+COLOR [attr]
+
+  attr        Specifies color attribute of console output
+
+Color attributes are specified by TWO hex digits -- the first
+corresponds to the background; the second the foreground.  Each digit
+can be any of the following values:
+
+    0 = Black       8 = Gray
+    1 = Blue        9 = Light Blue
+    2 = Green       A = Light Green
+    3 = Aqua        B = Light Aqua
+    4 = Red         C = Light Red
+    5 = Purple      D = Light Purple
+    6 = Yellow      E = Light Yellow
+    7 = White       F = Bright White
+
+If no argument is given, this command restores the color to what it was
+when CMD.EXE started.  This value either comes from the current console
+window, the /T command line switch or from the DefaultColor registry
+value.
+
+The COLOR command sets ERRORLEVEL to 1 if an attempt is made to execute
+the COLOR command with a foreground and background color that are the
+same.
+
+Example: "COLOR fc" produces light red on bright white
+
+C:\Users\Aspire> color 1

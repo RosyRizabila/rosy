@@ -1,0 +1,3 @@
+words = ["pisang", "mangga", "anggur"]
+for i in words:
+    print(i)
