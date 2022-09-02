@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <h1>Ini Request</h1>
+        <form action="" method="post">
+
+        <input name="nama" type="text" required>
+        <input name="detail" type="text" required>
+        <button type="submit">kirim</button>
+    </form>
+        <hr>
+        <h1>Ini Respon</h1>
+        <!-- <h1>List Buah</h1> -->
+        {{context}}
+        <br>
+
+        <!-- <table>
+            <thead>
+                <td>id</td>
+                <td>nama</td>
+                <td>detail</td>
+
+            </thead>
+        </table> -->
+        {% for d in context %}
+        <ul>
+            <li>{{d}}</li>
+        </ul>
+        {% endfor %}
+    </div>
+</body>
+</html>
