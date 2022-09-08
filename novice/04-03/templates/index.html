@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -92,4 +93,100 @@ tr:nth-child(even) {
         {% endfor %} -->
     </div>
  </body>
+=======
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 80%;
+}
+
+td, th {
+  border: 1px solid pink;
+  text-align: left;
+  padding: 10px;
+}
+
+tr:nth-child(even) {
+  background-color: whitesmoke;
+}
+</style>
+    
+</head> 
+<body>
+    <div>
+        <h1> Tambah Data </h1>
+        <form action="" method="post">
+            <label for="">nama</label>
+            <input name="nama" type="text" required>
+            <label for="">nik</label>
+            <input name="nik" type="text" required>
+            <label for="">departemen</label>
+            <input name="departemen" type="text" required>
+            <label for="">jabatan</label>
+            <input name="jabatan" type="text" required>
+            <label for="">email</label>
+            <input name="email" type="email" required>
+            <button type="submit">kirim</button>
+
+        </form>
+        
+        <hr>
+        <h1>Data Masuk</h1>
+        <br>
+        <table>
+            <tr>
+                <th>id</th>
+                <th>nama</th>
+                <th>nik</th>
+                <th>departemen</th>
+                <th>jabatan</th>
+                <th>email</th>
+               <!--<th>detail</th>--> 
+            </tr>
+            {% for d in context %}
+           <tr>
+                <td>{{loop.index}}</td>
+                <td>{{d[1]}}</td>
+                <td>{{d[2]}}</td>
+                <td>{{d[3]}}</td>
+                <td>{{d[4]}}</td>
+                <td>{{d[5]}}</td>
+                <!-- <td>{{d[2]}}</td> -->
+                <td>
+                    <!-- <a href="/detail/{{d[0]}}">
+                        <button>detail</button>
+                    !-- <a>
+                    <a href="/update/{{d[0]}}">
+                        <button>update</button> --> 
+                    </a>
+                    <a href="/delete/{{d[0]}}">
+                        <button>delete</button>
+        
+                /</td> 
+                <!-- <td>{{d[2]}}</td> -->
+            </tr> 
+            {% endfor %}
+        </table>
+        
+        
+        <!-- <hr>
+        <h1>ini respons</h1>
+        {{context}}
+        <br>
+        {%for d in context %}
+        <ul>
+            <li>{{d}}</li>
+        </ul>  
+        {% endfor %} -->
+    </div>
+ </body>
+>>>>>>> 1adbd1c7d3072915be23463bdbf680a492980bd5
 </html>
